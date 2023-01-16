@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  max-width: 768px;
+  margin: 0 auto;
+}
